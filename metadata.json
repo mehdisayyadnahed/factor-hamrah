@@ -1,0 +1,6 @@
+{
+  "name": "فاکتور همراه",
+  "description": "اپلیکیشن جامع و هوشمند صدور و مدیریت فاکتور، پیش‌فاکتور، اطلاعات مشتریان و حساب‌های بانکی با خروجی حرفه‌ای PDF",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
