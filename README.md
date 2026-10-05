@@ -68,4 +68,6 @@
 | **موتور تولید PDF** | بومی اندروید (`android.graphics.pdf.PdfDocument`) با طراحی وکتور و Canvas |
 | **سریال‌سازی داده‌ها** | [Moshi Kotlin Codegen](https://github.com/square/moshi) |
 | **لود تصاویر** | [Coil Compose](https://coil-kt.github.io/coil/) |
-| **پردازش پس‌زمینه** | [AndroidX WorkM
+| **پردازش پس‌زمینه** | AndroidX WorkM
+| **حداقل اندروید مورد نیاز** | اندروید 7.0 (API 24)
+| **نسخه هدف** | اندروید 16 (API 36)
