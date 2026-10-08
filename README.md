@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="assets/factor-hamrah-icon.svg" alt="لوگوی فاکتور همراه" width="120" height="120" />
-  <img src="Screenshot.png" alt="اسکرین‌شات فاکتور همراه" width="720" height="1240" />
+  <img src="Screenshot.png" alt="اسکرین‌شات فاکتور همراه" width="360" height="620" />
 
   # فاکتور همراه (Factor Hamrah)
   ### نرم‌افزار هوشمند و بومی صدور و مدیریت فاکتور، مشتریان و حساب‌های بانکی برای اندروید
