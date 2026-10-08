@@ -51,7 +51,7 @@ object BackupManager {
     suspend fun exportBackupToFile(context: Context, database: AppDatabase): File = withContext(Dispatchers.IO) {
         val json = exportBackupToJsonString(database)
         val backupDir = File(context.filesDir, "backups").apply { mkdirs() }
-        val fileName = "InvoiceBackup_${PersianDateHelper.getTodayJalali().formatFormatted().replace("/", "_")}_${System.currentTimeMillis()}.json"
+        val fileName = "Factor_Hamrah_Backup_${PersianDateHelper.getTodayJalali().formatFormatted().replace("/", "_")}_${System.currentTimeMillis()}.json"
         val backupFile = File(backupDir, fileName)
 
         FileOutputStream(backupFile).use { out ->
