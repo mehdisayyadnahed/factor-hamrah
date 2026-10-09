@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Deep modern dark background (#0F172A) -->
+    <item>
+        <color android:color="#0F172A" />
+    </item>
+    <!-- Centered Cyan Vector Logo -->
+    <item
+        android:width="128dp"
+        android:height="128dp"
+        android:gravity="center"
+        android:drawable="@drawable/factor_hamrah_icon" />
+</layer-list>
