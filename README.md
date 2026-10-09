@@ -19,7 +19,7 @@
 
   <!-- App Screenshot -->
   <img src="Screenshot_1.png" alt="اسکرین‌شات فاکتور همراه" width="340" />
-  <img src="Screenshot_2.png" alt="اسکرین‌شات فاکتور همراه" width="480" />
+  <img src="Screenshot_2.png" alt="اسکرین‌شات فاکتور همراه" width="420" />
   
 
 </div>
