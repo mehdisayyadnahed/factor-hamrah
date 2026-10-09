@@ -1,10 +1,15 @@
 <div align="center">
-   # فاکتور همراه
+   # فاکتور همراه (Factor Hamrah)
+</div>
+
+<div align="center">
   <img src="assets/factor-hamrah-icon.svg" alt="لوگوی فاکتور همراه" width="120" height="120" />
   <div align="center">
     <img src="Screenshot.png" alt="اسکرین‌شات فاکتور همراه" width="360" height="620" />
   </div>
-  # فاکتور همراه (Factor Hamrah)
+</div>
+
+<div align="center">
   ### نرم‌افزار هوشمند و بومی صدور و مدیریت فاکتور، مشتریان و حساب‌های بانکی برای اندروید
 
   [![Kotlin](https://img.shields.io/badge/Kotlin-2.2.10-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org)
