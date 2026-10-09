@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/factor-hamrah-icon.svg" alt="لوگوی فاکتور همراه" width="120" height="120" />
+  <img src="factor-hamrah-icon.svg" alt="لوگوی فاکتور همراه" width="120" height="120" />
 
   <h1>فاکتور همراه (Factor Hamrah)</h1>
 
