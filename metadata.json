@@ -1,0 +1,8 @@
+{
+  "name": "شاخه فاکتور همراه",
+  "description": "اپلیکیشن جامع و پیشرفته مدیریت مشتریان و صدور فاکتور رسمی و پیش‌فاکتور با امکان خروجی PDF و پشتیبان‌گیری خودکار",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
