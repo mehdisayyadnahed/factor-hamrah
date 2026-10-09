@@ -1,22 +1,24 @@
 <div align="center">
-   # فاکتور همراه (Factor Hamrah)
-</div>
 
-<div align="center">
   <img src="assets/factor-hamrah-icon.svg" alt="لوگوی فاکتور همراه" width="120" height="120" />
-  <div align="center">
-    <img src="Screenshot.png" alt="اسکرین‌شات فاکتور همراه" width="360" height="620" />
-  </div>
-</div>
 
-<div align="center">
-  ### نرم‌افزار هوشمند و بومی صدور و مدیریت فاکتور، مشتریان و حساب‌های بانکی برای اندروید
+  <h1>فاکتور همراه (Factor Hamrah)</h1>
 
-  [![Kotlin](https://img.shields.io/badge/Kotlin-2.2.10-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-  [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-BOM%202024.09.00-4285F4?style=flat&logo=android&logoColor=white)](https://developer.android.com/jetpack/compose)
-  [![Room](https://img.shields.io/badge/Room%20DB-2.7.0-3DDC84?style=flat&logo=sqlite&logoColor=white)](https://developer.android.com/training/data-storage/room)
-  [![Material 3](https://img.shields.io/badge/Material%203-Latest-6750A4?style=flat&logo=material-design&logoColor=white)](https://m3.material.io/)
-  [![Platform](https://img.shields.io/badge/Android-Min%20SDK%2024%20|%20Target%2036-brightgreen?style=flat&logo=android)](https://android.com)
+  <h3>نرم‌افزار هوشمند و بومی صدور و مدیریت فاکتور، مشتریان و حساب‌های بانکی برای اندروید</h3>
+
+  <!-- Badges -->
+  <p>
+    <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-2.2.10-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
+    <a href="https://developer.android.com/jetpack/compose"><img src="https://img.shields.io/badge/Jetpack%20Compose-BOM%202024.09.00-4285F4?style=flat&logo=android&logoColor=white" alt="Jetpack Compose" /></a>
+    <a href="https://developer.android.com/training/data-storage/room"><img src="https://img.shields.io/badge/Room%20DB-2.7.0-3DDC84?style=flat&logo=sqlite&logoColor=white" alt="Room" /></a>
+    <a href="https://m3.material.io/"><img src="https://img.shields.io/badge/Material%203-Latest-6750A4?style=flat&logo=material-design&logoColor=white" alt="Material 3" /></a>
+    <a href="https://android.com"><img src="https://img.shields.io/badge/Android-Min%20SDK%2024%20%7C%20Target%2036-brightgreen?style=flat&logo=android" alt="Platform" /></a>
+  </p>
+
+  <br />
+
+  <!-- App Screenshot -->
+  <img src="Screenshot.png" alt="اسکرین‌شات فاکتور همراه" width="340" />
 
 </div>
 
