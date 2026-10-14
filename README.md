@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="factor_hamrah_icon.svg" alt="لوگوی فاکتور همراه" width="120" height="120" />
+  <img src="/images/factor_hamrah_icon.svg" alt="لوگوی فاکتور همراه" width="120" height="120" />
 
   <h1>فاکتور همراه (Factor Hamrah)</h1>
 
@@ -18,8 +18,8 @@
   <br />
 
   <!-- App Screenshot -->
-  <img src="Screenshot_1.png" alt="اسکرین‌شات فاکتور همراه" width="345" />
-  <img src="Screenshot_2.png" alt="اسکرین‌شات فاکتور همراه" width="430" />
+  <img src="/images/Screenshot_1.png" alt="اسکرین‌شات فاکتور همراه" width="345" />
+  <img src="/images/Screenshot_2.png" alt="اسکرین‌شات فاکتور همراه" width="430" />
 
 </div>
 
